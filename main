@@ -1,37 +1,35 @@
-#Claude
-DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,claude.com,PROXY
-DOMAIN-SUFFIX,claude.app,PROXY
-DOMAIN-SUFFIX,anthropic.com,PROXY
-DOMAIN-SUFFIX,claudeusercontent.com,PROXY
-DOMAIN-SUFFIX,claudemcpcontent.com,PROXY
-DOMAIN-SUFFIX,clau.de,PROXY
+# Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,clau.de
 
-#ChatGPT
-DOMAIN-SUFFIX,openai.com,PROXY
-DOMAIN-SUFFIX,chatgpt.com,PROXY
-DOMAIN-SUFFIX,oaistatic.com,PROXY
-DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+# ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
-#PayPal
-DOMAIN-SUFFIX,paypal.com,PROXY
-DOMAIN-SUFFIX,paypalobjects.com,PROXY
-DOMAIN-SUFFIX,paypal-mktg.com,PROXY
-DOMAIN-SUFFIX,paypal.me,PROXY
+# PayPal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypal.me
 
-#===== Stripe（支付，必须和 AI 服务同一出口）=====
-DOMAIN-SUFFIX,stripe.com,PROXY
-DOMAIN-SUFFIX,stripe.network,PROXY
-DOMAIN-SUFFIX,stripecdn.com,PROXY
-DOMAIN-SUFFIX,link.com,PROXY
+# Stripe（订阅 AI 服务付款必需）
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,link.com
 
+# 人机验证
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,arkoselabs.com
 
-
-#人机验证
-DOMAIN-SUFFIX,cloudflare.com,PROXY
-DOMAIN-SUFFIX,hcaptcha.com,PROXY
-DOMAIN-SUFFIX,arkoselabs.com,PROXY
-
-#Persona 身份验证
-DOMAIN-SUFFIX,withpersona.com,PROXY
-DOMAIN-SUFFIX,frompersona.com,PROXY
+# Persona 身份验证
+DOMAIN-SUFFIX,withpersona.com
+DOMAIN-SUFFIX,frompersona.com

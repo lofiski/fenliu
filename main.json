@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "claude.ai",
+        "claude.com",
+        "claude.app",
+        "anthropic.com",
+        "claudeusercontent.com",
+        "claudemcpcontent.com",
+        "clau.de",
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "paypal.com",
+        "paypalobjects.com",
+        "paypal-mktg.com",
+        "paypal.me",
+        "stripe.com",
+        "stripe.network",
+        "stripecdn.com",
+        "link.com",
+        "cloudflare.com",
+        "hcaptcha.com",
+        "arkoselabs.com",
+        "withpersona.com",
+        "frompersona.com"
+      ]
+    }
+  ]
+}
