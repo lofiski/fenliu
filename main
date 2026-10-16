@@ -1,0 +1,37 @@
+#Claude
+DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,claude.com,PROXY
+DOMAIN-SUFFIX,claude.app,PROXY
+DOMAIN-SUFFIX,anthropic.com,PROXY
+DOMAIN-SUFFIX,claudeusercontent.com,PROXY
+DOMAIN-SUFFIX,claudemcpcontent.com,PROXY
+DOMAIN-SUFFIX,clau.de,PROXY
+
+#ChatGPT
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,chatgpt.com,PROXY
+DOMAIN-SUFFIX,oaistatic.com,PROXY
+DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+
+#PayPal
+DOMAIN-SUFFIX,paypal.com,PROXY
+DOMAIN-SUFFIX,paypalobjects.com,PROXY
+DOMAIN-SUFFIX,paypal-mktg.com,PROXY
+DOMAIN-SUFFIX,paypal.me,PROXY
+
+#===== Stripe（支付，必须和 AI 服务同一出口）=====
+DOMAIN-SUFFIX,stripe.com,PROXY
+DOMAIN-SUFFIX,stripe.network,PROXY
+DOMAIN-SUFFIX,stripecdn.com,PROXY
+DOMAIN-SUFFIX,link.com,PROXY
+
+
+
+#人机验证
+DOMAIN-SUFFIX,cloudflare.com,PROXY
+DOMAIN-SUFFIX,hcaptcha.com,PROXY
+DOMAIN-SUFFIX,arkoselabs.com,PROXY
+
+#Persona 身份验证
+DOMAIN-SUFFIX,withpersona.com,PROXY
+DOMAIN-SUFFIX,frompersona.com,PROXY
